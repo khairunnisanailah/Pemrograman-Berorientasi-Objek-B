@@ -1,4 +1,3 @@
-
 public class KodePertama_Latihan {
     public static void main (String[]args){
         System.out.println("Nama: Khairunnisa Nailah Saadah");
@@ -7,3 +6,8 @@ public class KodePertama_Latihan {
         System.out.println("Prodi: Informatika");
     }
 }
+/*
+NAMA: KHAIRUNNISA NAILAH SAADAH
+NIM: D1041241054
+TANGGAL: 05/02/2026
+ */
