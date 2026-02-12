@@ -1,5 +1,9 @@
 package Pertemuan3;
-
+/*
+NAMA: KHAIRUNNISA NAILAH SAADAH
+NIM: D1041241054
+TANGGAL: 12/02/2026
+ */
 public class p023PrimitiveData {
 public static void main(String[] args) {
     int umur = 20;
@@ -16,8 +20,3 @@ public static void main(String[] args) {
     System.out.println("Status Lulus   : "+lulus);
 }
 }
-/*
-NAMA: KHAIRUNNISA NAILAH SAADAH
-NIM: D1041241054
-TANGGAL: 12/02/2026
- */
