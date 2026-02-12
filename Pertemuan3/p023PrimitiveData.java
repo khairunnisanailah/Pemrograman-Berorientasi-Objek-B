@@ -16,3 +16,8 @@ public static void main(String[] args) {
     System.out.println("Status Lulus   : "+lulus);
 }
 }
+/*
+NAMA: KHAIRUNNISA NAILAH SAADAH
+NIM: D1041241054
+TANGGAL: 12/02/2026
+ */
