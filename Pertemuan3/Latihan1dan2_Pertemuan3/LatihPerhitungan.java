@@ -1,4 +1,4 @@
-package Pertemuan3;
+package Pertemuan3.Latihan1dan2_Pertemuan3;
 
 public class LatihPerhitungan {
     public static void main(String[] args) {
