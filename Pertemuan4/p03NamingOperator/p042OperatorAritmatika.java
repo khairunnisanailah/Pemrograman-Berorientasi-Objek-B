@@ -1,4 +1,4 @@
-package p03NamingOperator;
+package Pertemuan4.p03NamingOperator;
 /*
 NAMA: KHAIRUNNISA NAILAH SAADAH
 NIM: D1041241054
