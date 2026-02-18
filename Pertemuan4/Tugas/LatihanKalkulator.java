@@ -1,5 +1,8 @@
 package Pertemuan4.Tugas;
-
+/*
+NAMA: KHAIRUNNISA NAILAH SAADAH
+NIM: D1041241054
+ */
 public class LatihanKalkulator {
   public static void main(String[] args) {
       System.out.println("=== KALKULATOR ===");

@@ -1,5 +1,8 @@
 package Pertemuan4.Tugas;
-
+/*
+NAMA: KHAIRUNNISA NAILAH SAADAH
+NIM: D1041241054
+ */
 public class LatihanProduk {
     public static final double PAJAK = 0.11;
 public static void main(String[] args) {

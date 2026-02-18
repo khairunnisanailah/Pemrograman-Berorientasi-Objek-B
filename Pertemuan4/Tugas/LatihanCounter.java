@@ -1,5 +1,8 @@
 package Pertemuan4.Tugas;
-
+/*
+NAMA: KHAIRUNNISA NAILAH SAADAH
+NIM: D1041241054
+ */
 public class LatihanCounter {
     public static void main(String[] args) {
         int counter = 10;
