@@ -1,24 +1,24 @@
 # Tugas Narasi Latihan Pertemuan 4
 ## 1.	Naming convention   
-Naming convention adalah suatu aturan yang mengatur penamaan variable, method, class, dan konstanta pada program java.  Tujuan utama naming convention adalah agar kode konsisten dan mudah dipahami.
-  a.	Penamaan variable menggunakan camelCase dengan aturan:
-    -	Kata pertama menggunakan lowercase
-    -	Kata selanjutnya dimulai dengan huruf kapital
-    -	Tidak menggunakan karakter unik
-    -	Nama variable harus jelas dan konsisten
-  b.	Penamaan boolean harus diawali dengan is, has, atau can
-  c.	Penamaan konstanta menggunakan CONSTANT_CASE dengan aturan:
-    -	Dideklarasikan dengan modifier final
-    -	Seluruh huruf ditulis menggunakan kapital
-    -	Setiap kata dipisahkan menggunakan (_)
-  d.	Penamaan class menggunakan PascalCase dengan aturan:
-    - Tidak boleh menggunakan karakter unik
-    -	Berupa kata benda
-    -	Setiap kata dimulai dengan huruf kapital
-  e.	Penamaan method menggunakan camelCase dengan aturan:
-    -	Berupa kata kerja
-    -	Nama dapat menjelaskan fungsi method
-    -	Method berupa boolean memiliki aturan sama seperti penamaan boolean
+Naming convention adalah suatu aturan yang mengatur penamaan variable, method, class, dan konstanta pada program java.  Tujuan utama naming convention adalah agar kode konsisten dan mudah dipahami.  
+a.	Penamaan variable menggunakan camelCase dengan aturan:
+-	Kata pertama menggunakan lowercase
+-	Kata selanjutnya dimulai dengan huruf kapital
+-	Tidak menggunakan karakter unik
+-	Nama variable harus jelas dan konsisten
+b. Penamaan boolean harus diawali dengan is, has, atau can
+c. Penamaan konstanta menggunakan CONSTANT_CASE dengan aturan:
+- Dideklarasikan dengan modifier final
+- Seluruh huruf ditulis menggunakan kapital
+- Setiap kata dipisahkan menggunakan (_)
+d. Penamaan class menggunakan PascalCase dengan aturan:
+- Tidak boleh menggunakan karakter unik
+- Berupa kata benda
+- Setiap kata dimulai dengan huruf kapital
+e. Penamaan method menggunakan camelCase dengan aturan:
+- Berupa kata kerja
+- Nama dapat menjelaskan fungsi method
+- Method berupa boolean memiliki aturan sama seperti penamaan boolean
 ## 2. Pentingnya naming convention  
 Penamaan dalam pemrograman dinilai penting karena membuat kode lebih rapi dan terstruktur sehingga dapat membantu programmer lain ketika melakukan maintenance program. Penamaan juga dapat mempermudah kode untuk dibaca dan dipahami sehingga tidak adanya miskomunikasi ketika pengembangan program.
 ## 3.	Operasi Aritmatika  
