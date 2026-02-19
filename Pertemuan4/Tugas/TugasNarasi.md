@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nama: Khairunnisa Nailah Saadah
 <<<<<<< HEAD
 NIM : D1041241054
@@ -5,6 +6,8 @@ NIM : D1041241054
 
 NIM : D1041241054 
 >>>>>>> 1f529980d2e89755247adde33184bbfdeb7aae3c
+=======
+>>>>>>> 445553c81850413e55e24b9b826d3b15d66930fc
 # Tugas Narasi Latihan Pertemuan 4
 ## 1.	Naming convention   
 Naming convention adalah suatu aturan yang mengatur penamaan variable, method, class, dan konstanta pada program java.  Tujuan utama naming convention adalah agar kode konsisten dan mudah dipahami.  
