@@ -14,7 +14,7 @@ class Buku {
         System.out.println("Harga     : Rp "+harga);
     }
 }
-public class Latiahn1 {
+public class Latihan1 {
     public static void main(String[] args) {
         Buku buku1 = new Buku();
         buku1.judul = "Pemrograman Java";
