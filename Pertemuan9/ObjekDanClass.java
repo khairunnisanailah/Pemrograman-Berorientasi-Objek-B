@@ -29,7 +29,7 @@ public class ObjekDanClass {
         System.out.println("=== INFORMASI MOBIL ===");
         obj1.tampilkanInfo();
 
-        obj1.percepat(100);
+        obj1.percepat(20);
         System.out.println("\nSetelah dipercepat");
         obj1.tampilkanInfo();
     }
